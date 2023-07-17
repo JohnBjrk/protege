@@ -1,0 +1,7 @@
+*.beam
+*.ez
+build
+erl_crash.dump
+NOTES.md
+.vscode
+.DS_Store
